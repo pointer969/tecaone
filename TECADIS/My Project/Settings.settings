@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ocuser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">sys</Value>
+    </Setting>
+    <Setting Name="ocdblvl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SYSDBA</Value>
+    </Setting>
+    <Setting Name="ocmainsrc" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">VIW_INT_PAGTO_CONCESSIONARIA</Value>
+    </Setting>
+    <Setting Name="ocpwd" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Joinville5ch1#</Value>
+    </Setting>
+    <Setting Name="oFilial" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1I</Value>
+    </Setting>
+    <Setting Name="ocdatabase" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">PONTA NEGRA_ TESTE</Value>
+    </Setting>
+    <Setting Name="sapserver" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SRFGBSAP\SRFGBSAP</Value>
+    </Setting>
+    <Setting Name="sapdbtype" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">dst_MSSQL2016</Value>
+    </Setting>
+    <Setting Name="sapappuser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">manager</Value>
+    </Setting>
+    <Setting Name="sapapppwd" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">gb$@p123</Value>
+    </Setting>
+    <Setting Name="sapapplang" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ln_English</Value>
+    </Setting>
+    <Setting Name="saplicensesrv" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SRFGBSAP:30000</Value>
+    </Setting>
+    <Setting Name="sapBPSeries" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">74</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
